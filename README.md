@@ -10,7 +10,7 @@
 
 🎓 **Diplômé** de l'IUT Nancy-Charlemagne (Développement Web & Mobile)  
 💻 **Développeur Full-Stack** passionné par l'innovation technologique  
-🔧 **Automatisation enthusiast** - J'aime construire des solutions qui simplifient la vie  
+🔧 **Automatisation enthusiast** – J'aime construire des solutions qui simplifient la vie  
 🎯 **Mission actuelle** : Créer des applications web performantes et intuitives
 
 ---
@@ -18,10 +18,11 @@
 ## 🌐 Connectons-nous !
 
 <div align="center">
-  
+
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vqm3yjmRmS)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/drwatson_2409)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dr.watson2409@gmail.com)
+[![Follow](https://img.shields.io/github/followers/Dr-J-Watson?label=Suivre&style=for-the-badge)](https://github.com/Dr-J-Watson)
 
 </div>
 
@@ -49,7 +50,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🔧 Outils de développement
+### 🧰 Outils de développement
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -89,9 +90,9 @@
 ---
 
 <div align="center">
-  
+
 ### 🌟 Merci de ta visite !
-  
+
 <img src="https://komarev.com/ghpvc/?username=Dr-J-Watson&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 
 **N'hésite pas à explorer mes repos et à me contacter pour des collaborations !** 🚀
