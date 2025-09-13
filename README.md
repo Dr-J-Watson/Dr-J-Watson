@@ -7,8 +7,7 @@
 ## 🚀 Moi en quelques lignes
 
 * 🎓 Diplômé en **Développement Web & Mobile** à l’IUT Nancy-Charlemagne
-* 🔧 Passionné par la **création d’outils et d’applications** qui simplifient la vie
-* 📌 Toujours curieux : j’aime apprendre, tester et repousser les limites techniques
+* 🔧 Passionné par la **création et amélioration d’outils et d’applications** qui simplifient la vie
 
 ---
 
